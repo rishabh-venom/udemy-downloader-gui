@@ -27,6 +27,7 @@ Udeler Web is in Beta and there is room for tons of features. As of now it is ju
 __`I am currently not able to give this project enough time to fix the current issues or add new features. I am busy with some other projects. But I do plan to fix all the issues and add some new features. So the maintenance is temporarily on hold and this project is not dead. I also plan to make a web only version of Udeler.`__
 
 ![](https://i.imgur.com/nsaAgDU.gif)
+![](https://i.imgur.com/fmS3vnu.gif)
 
 ### :fire: Features
 * _`Choose video quality.`_
